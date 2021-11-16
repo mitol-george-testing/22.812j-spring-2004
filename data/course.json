@@ -1,0 +1,46 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Energy",
+      "Electricity"
+    ],
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering",
+      "Nuclear Systems, Policy, and Economics"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c618ed7a-945d-ca54-bee3-505059ec11c4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Managing Nuclear Technology",
+  "course_description": "An examination of current economic and policy issues in the electric power industry, focusing on nuclear power and its fuel cycle. Introduces techniques for analyzing private and public policy alternatives, including discounted cash flow methods and other techniques in engineering economics. Application to specific problem areas, including nuclear waste management and weapons proliferation. Other topics include deregulation and restructuring in the electric power industry.\n",
+  "department_numbers": [
+    "22",
+    "ESD"
+  ],
+  "extra_course_numbers": "ESD.163J",
+  "primary_course_number": "22.812J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
